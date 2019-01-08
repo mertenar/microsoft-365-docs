@@ -29,6 +29,8 @@ Intune will be linked to the **Microsoft Store for Business** during Microsoft M
 **App management**
 Microsoft may identify restricted applications which are not suitable for the modern workplace because of their system impact. When such an application is identified Microsoft will notify the customer and that application will need to be removed from the tenant. 
 
+For more information on restricted app behaviors and app requirements, see [Microsoft Managed Desktop app requirements](mmd-app-requirements.md)
+
 ## Customer responsibilities
 The Office 365 Suite is core to Microsoft’s productivity offerings and is included in the Microsoft 365 License for all Microsoft Managed Desktop users. While Microsoft deploys, updates, and supports Office Applications to Microsoft Managed Desktop Devices there are still some areas for which the customer is responsible.
 - **Assign licenses** - Customers are responsible for assigning the appropriate licenses to end users for Office 365. 
@@ -40,8 +42,7 @@ Since line-of-business (LOB) apps are unique for each customer, customers are re
 - Assigning apps to those users
 - Create and maintain Azure Active Directory (AD) groups for managing app assignments 
 
-Once the core set of LOB apps has been identified the customer will procure, license, package, and test those applications in the Microsoft Managed Desktop environment. The customer must upload and deploy applications to Intune to deploy, update, and decommission their LOB applications. Customers are responsible for managing LOB apps support for their users.
- 
+The customer must upload LOB apps to Intune. They are then responsible for deploying, updating, and decommissioning those applications over their respective lifecycles, as well as managing support for these apps for their users.
 
 ## Office applications
 As part of the Microsoft 365 E5 license, Office 365 Standard Suite (64 Bit) is deployed by Microsoft. 

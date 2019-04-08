@@ -19,7 +19,7 @@ ms.collection: M365-modern-desktop
 Microsoft Managed Desktop connects all devices to a modern cloud-based infrastructure. Keeping Windows, Office, drivers, firmware, and Microsoft Store for Business application updates up to date is a balance of speed and stability. Deployment groups will be used to ensure OS and policies are rolled out in a safe manner. 
 
 Updates released by Microsoft are cumulative and may be categorized as quality or feature updates.
-For more information, see [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq). 
+For more information, see [Deploy updates using Windows Update for Business](https://docs.microsoft.com/windows/deployment/update/waas-manage-updates-wufb#update-types). 
 
 ## Update groups
 
